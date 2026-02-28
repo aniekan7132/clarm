@@ -119,7 +119,7 @@ export function Footer() {
           </p>
           <div className="flex items-center gap-4">
             <a
-              href="https://facebook.com"
+              href="#"
               className="text-white/70 hover:text-white"
             >
               <img src="/facebook.svg" alt="facebook" className="w-10 h-10" />
