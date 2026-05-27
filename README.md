@@ -18,6 +18,25 @@ The website includes:
 
 ---
 
+## Project Preview
+
+### Desktop View
+
+#### Homepage
+![Homepage](./images/homepage.png)
+
+#### About / What We Do
+![About Page](./images/about-us-desktop.png)
+
+![What we do Page](./images/what-we-do-desktop.png)
+
+### Mobile View
+
+#### Responsive Mobile Experience
+![Mobile View](./images/homepage-mobile-view.png)
+
+---
+
 ## Technologies Used
 
 - Next.js (App Router)
