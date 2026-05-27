@@ -35,6 +35,10 @@ The website includes:
 #### Responsive Mobile Experience
 ![Mobile View](./images/homepage-mobile-view.png)
 
+![Mobile View](./images/what-we-do-mobile-view.png)
+
+![Mobile View](./images/about-us-mobile-view.png)
+
 ---
 
 ## Technologies Used
